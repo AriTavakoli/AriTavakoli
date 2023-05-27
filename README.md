@@ -1,8 +1,5 @@
 Hi 👋 My name is Ari Tavakoli
 =============================
-
-* ✉️  You can contact me at [Aritavakoli98@gmail.com](mailto:Aritavakoli98@gmail.com)
-
 ### Skills
 
 
